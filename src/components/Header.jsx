@@ -11,7 +11,7 @@ const Header = () => {
     >
       <div className="flex items-center px-5 lg:px-7.5 xl:px-10 max-lg:py-4 mb-5 mt-5 sm:mt-2 sm:mb-2 lg:mt-5 lg:mb-5 align-middle">
         <a className="xl:mr-8 text-center h5" href="#hero">
-          Create website
+          Buatwebsite
         </a>
       </div>
     </div>

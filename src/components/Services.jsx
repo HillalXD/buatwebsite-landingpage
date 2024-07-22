@@ -26,7 +26,7 @@ const Services = () => {
             </div>
 
             <div className="relative z-1  ml-auto rounded-lg bg-gradient-to-b from-n-8/70 to-n-8/35  xl:p-10 md:p-10 p-10">
-              <h4 className="h4 mb-4">Cryptocurrency tracker</h4>
+              <h4 className="h4 mb-4">100Crypto</h4>
               <p className="body-2 mb-[3rem] text-n-3">
                 first 100 market cap Cryptocurrency price movement tracker
               </p>
@@ -41,7 +41,7 @@ const Services = () => {
                   </li>
                 ))}
               </ul>
-              <Generating href="test" />
+              <Generating href="https://100cryptotrack.vercel.app/" />
             </div>
           </div>
 
@@ -57,12 +57,11 @@ const Services = () => {
                 />
               </div>
               <div className="absolute inset-0 flex flex-col justify-end p-8 bg-gradient-to-b from-n-8/0 to-n-8/100 lg:p-15">
-                <h4 className="h4 mb-4">Money tracker</h4>
+                <h4 className="h4 mb-4">Storytell</h4>
                 <p className="body-2 mb-[3rem] text-n-3">
-                  Track your income and expense in website make your money more
-                  accountable
+                  Platform to share story with different users
                 </p>
-                <Generating href="test" />
+                <Generating href="https://project-storytell.vercel.app/" />
               </div>
             </div>
             {/* section2 */}
@@ -77,11 +76,14 @@ const Services = () => {
                 />
               </div>
               <div className="absolute inset-0 flex flex-col justify-end p-8 bg-gradient-to-b from-n-8/0 to-n-8/100 lg:p-15">
-                <h4 className="h4 mb-4">Time booking website</h4>
+                <h4 className="h4 mb-4">SummaryAI</h4>
                 <p className="body-2 mb-[3rem] text-n-3">
-                  track all your customers reservation, let them make the deal
+                  Summarize long articles website with help of AI
                 </p>
-                <Generating href="test" className="items-end" />
+                <Generating
+                  href="https://summarize-application.vercel.app/"
+                  className="items-end"
+                />
               </div>
             </div>
             {/* section3 */}
